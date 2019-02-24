@@ -1,2 +1,3 @@
-# nyquist
-Eurorack quad VCA and mixer
+# Nyquist :: Quad Voltage Controlled Amplifier / Mixer
+
+work in progress, please come back later
